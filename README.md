@@ -86,7 +86,7 @@ El proyecto cuenta con los siguientes Endpoints para realizar alguna operación 
 
 `HTTP GET: /api/products` --> LISTAR TODOS LOS REGISTROS
 
-`HTTP GET: /api/products/{id}` --> OBTENER UN REGISTRO FILTRADO POR ID
+`HTTP GET: /api/products/{id}` --> OBTENER UN REGISTRO PASANDO EL ID
 
 `HTTP POST: /api/products` --> INGRESAR UN NUEVO REGISTRO
 
