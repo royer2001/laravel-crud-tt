@@ -84,8 +84,12 @@ Accede a la aplicación en `http://localhost:8000`.
 
 El proyecto cuenta con los siguientes Endpoints para realizar alguna operación CRUD
 
-`HTTP GET: /api/products` ---> LISTAR TODOS LOS REGISTROS
-`HTTP GET: /api/products/{id}` ---> OBTENER UN REGISTRO FILTRADO POR ID
-`HTTP POST: /api/products` ---> INGRESAR UN NUEVO REGISTRO
-`HTTP PUT: /api/products/{id}` ---> MODIFICAR UN REGISTRO EXISTETE PASANDO EL ID
-`HTTP DELETE: /api/products/{id}` ---> ELIMINAR UN REGISTRO PASANDO EL ID
+`HTTP GET: /api/products` --> LISTAR TODOS LOS REGISTROS
+
+`HTTP GET: /api/products/{id}` --> OBTENER UN REGISTRO FILTRADO POR ID
+
+`HTTP POST: /api/products` --> INGRESAR UN NUEVO REGISTRO
+
+`HTTP PUT: /api/products/{id}` --> MODIFICAR UN REGISTRO EXISTETE PASANDO EL ID
+
+`HTTP DELETE: /api/products/{id}` --> ELIMINAR UN REGISTRO PASANDO EL ID
